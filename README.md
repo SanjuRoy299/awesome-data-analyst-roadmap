@@ -52,6 +52,7 @@ Get access to 30+ Data Science & Analytics Courses + Real-World Projects — ALL
 - Hands-On Projects to Build Real-World Experience
 - Expert Guidance and Lifetime Access
 - Industry-Recognized Certificates to Boost Your Resume
+
 👉 Click Here to Enroll Now: [Enroll Now](https://euron.one/personal-plan/aa2904bd-b41c-407a-b912-9dd8c75d5637?ref=7C9EDDAA)
 
 
