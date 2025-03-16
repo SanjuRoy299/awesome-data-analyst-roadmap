@@ -1,6 +1,6 @@
 # awesome-data-analyst-roadmap
 
-If you’re thinking about starting your journey to become a **Data Analyst**, you’re in the right place! Let me break down the key skills and tools you need to learn, along with **FREE COURSES** to help you get started. 👇
+If you’re thinking about starting your journey to become a **Data Analyst**, you’re in the right place! Let me break down the key skills and tools you need to learn, along with **FREE COURSES** and a **FREE VIRTUAL INTERNSHIP** to help you get started. 👇
 
 ## 1. Excel
 Excel is the backbone of data analysis. It helps you organize, clean, and analyze data using formulas, pivot tables, and charts. You’ll learn to perform data cleaning, visualization, and even automation using VBA.
@@ -32,7 +32,28 @@ Data visualization is about presenting data insights through charts, graphs, and
 
 👉 **Free Course:** | [Python Packages for Data Science](https://www.coursera.org/learn/python-packages-data-science)
 
+## Additional Virtual Internships
+💼 Data Visualisation: Empowering Business with Effective Insights
+Learn how to create impactful data visualizations and translate complex data into business insights.
+
+👉 Join Here: [Data Visualization Internship](https://www.theforage.com/simulations/tata/data-visualisation-p5xo)
+
+💼 Data Analytics
+Master the core skills of data analytics, including data cleaning, pattern identification, and data storytelling.
+
+👉 Join Here: [Data Analytics Internship](https://www.theforage.com/simulations/quantium/data-analytics-rqkb)
+
 --
+###  Want to Take Your Learning to the Next Level?
+Get access to 30+ Data Science & Analytics Courses + Real-World Projects — ALL for just ₹2999! 😍
+
+📚 What You’ll Get:
+- 30+ In-Depth Courses (Data Analytics, Data Science, GEN AI, NLP, Cloud Deployment etc)
+- Hands-On Projects to Build Real-World Experience
+- Expert Guidance and Lifetime Access
+- Industry-Recognized Certificates to Boost Your Resume
+👉 Click Here to Enroll Now: [Enroll Now](https://euron.one/personal-plan/aa2904bd-b41c-407a-b912-9dd8c75d5637?ref=7C9EDDAA)
+
 
 
 💡 Pro Tip: Start with Excel and SQL, then gradually move to Python and Power BI. Consistency is key — practice every day, and you’ll see progress in no time!
